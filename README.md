@@ -1,8 +1,6 @@
-
 # Guess My Number - A Simple JavaScript Game
 
 Guess My Number" is a fun number-guessing game built using HTML, CSS, and JavaScript. The player tries to guess the secret number between 1 and 20 with limited attempts.
-
 
 ## Features
 
@@ -11,11 +9,10 @@ Guess My Number" is a fun number-guessing game built using HTML, CSS, and JavaSc
 - Score tracking
 - Reset functionality
 
-
 ## Installation
 
 Just download or clone the repository and open the index.html file in your browser.
-    
+
 ## Screenshots
 
 [Guess My Number Screenshots]
@@ -26,9 +23,8 @@ Just download or clone the repository and open the index.html file in your brows
 ![Guess is Correct](./ScreenShots/guess-correct.png)
 ![Reset Game](./ScreenShots/reset-game.png)
 
-
 ## Tech Stack
 
-**Client:** HTML CSS JavaScript
-
-
+- HTML
+- CSS
+- JavaScript
