@@ -25,6 +25,6 @@ Just download or clone the repository and open the index.html file in your brows
 
 ## Tech Stack
 
-- HTML
-- CSS
-- JavaScript
+🧱 HTML5
+🎨 CSS3
+⚙️ JavaScript
